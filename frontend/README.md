@@ -1,3 +1,7 @@
+# E-Commerce Giyim Alışveriş Sitesi
+<img width="1466" alt="Screenshot 2024-07-14 at 10 26 05" src="https://github.com/user-attachments/assets/8997d5f5-3b77-45a0-9b53-afa3498404a7">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
