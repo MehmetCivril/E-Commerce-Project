@@ -6,15 +6,17 @@
 
 <img width="1443" alt="Screenshot 2024-07-14 at 10 26 35" src="https://github.com/user-attachments/assets/4507ba90-badf-4ca2-a3bb-4557db906609">
 
+## Footer
+
+<img width="1447" alt="Screenshot 2024-07-14 at 10 26 45" src="https://github.com/user-attachments/assets/3bc91e8a-029d-48ab-a67b-c1870b6fc753">
+
 ## Kids 
 <img width="1429" alt="Screenshot 2024-07-14 at 10 28 23" src="https://github.com/user-attachments/assets/72f06f03-2e68-402d-83d7-d0113558de65">
 
 ## Mens
 <img width="1433" alt="Screenshot 2024-07-14 at 10 28 01" src="https://github.com/user-attachments/assets/b106b95c-0d8f-44b2-9cbf-3abfc0a9f4a5">
 
-## Footer
 
-<img width="1447" alt="Screenshot 2024-07-14 at 10 26 45" src="https://github.com/user-attachments/assets/3bc91e8a-029d-48ab-a67b-c1870b6fc753">
 
 
 
