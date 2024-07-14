@@ -1,10 +1,17 @@
 # E-Commerce Giyim Alışveriş Sitesi Bitirme Projesi
+## Landing/Hero Sayfası
 <img width="1466" alt="Screenshot 2024-07-14 at 10 26 05" src="https://github.com/user-attachments/assets/8997d5f5-3b77-45a0-9b53-afa3498404a7">
+
 <img width="1429" alt="Screenshot 2024-07-14 at 10 28 23" src="https://github.com/user-attachments/assets/72f06f03-2e68-402d-83d7-d0113558de65">
+
 <img width="1368" alt="Screenshot 2024-07-14 at 10 28 14" src="https://github.com/user-attachments/assets/0984a14a-eeb8-4b21-af9e-7e69ca90a96a">
+
 <img width="1433" alt="Screenshot 2024-07-14 at 10 28 01" src="https://github.com/user-attachments/assets/b106b95c-0d8f-44b2-9cbf-3abfc0a9f4a5">
+
 <img width="1447" alt="Screenshot 2024-07-14 at 10 26 45" src="https://github.com/user-attachments/assets/3bc91e8a-029d-48ab-a67b-c1870b6fc753">
+
 <img width="1443" alt="Screenshot 2024-07-14 at 10 26 35" src="https://github.com/user-attachments/assets/4507ba90-badf-4ca2-a3bb-4557db906609">
+
 <img width="1449" alt="Screenshot 2024-07-14 at 10 26 20" src="https://github.com/user-attachments/assets/4aa57ff2-33af-4268-9e1f-7b3d7d4bfcdc">
 
 
